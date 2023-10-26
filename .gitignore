@@ -164,4 +164,4 @@ cython_debug/
 .tmp/drivedownload/
 
 # Ignore bak
-!.gitigonre.bak
+* .bak
