@@ -161,4 +161,4 @@ cython_debug/
 
 #Google Drive syncing resources
 .tmp.driveupload/
-.tmp/drivedownload
+.tmp/drivedownload/
