@@ -160,5 +160,4 @@ cython_debug/
 #.idea/
 
 #Google Drive syncing resources
-!/.tmp.drivedownload
-!/.tmp.driveupload
+.*/
